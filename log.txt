@@ -1,0 +1,4 @@
+окт. 29, 2024 7:02:44 PM Lesson_02.Ex005_Logger main
+WARNING: Логирование 1
+окт. 29, 2024 7:02:44 PM Lesson_02.Ex005_Logger main
+INFO: Тестовое логирование 2
